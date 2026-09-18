@@ -1,0 +1,10 @@
+{
+  "name": "kw-marker-repo",
+  "version": "1.0.0",
+  "description": "ingest marker KWMK-DEP-7731",
+  "main": "src/app.js",
+  "dependencies": {
+    "lodash": "4.17.15",
+    "minimist": "0.0.8"
+  }
+}
